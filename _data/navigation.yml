@@ -1,7 +1,18 @@
 # main links
 main:
-  - title: "About the Team LyonTech"
+  - title: "Team Members"
     url: /about/
+  - title: "Scientific Approach "
+    url: /about/
+  - title: "Publications"
+    url: /about/
+  - title: "Previous Participations"
+    url: /about/
+   - title: "Contributions"
+    url: /about/
+    
+    
+    
   - title: "Posts"
     url: /categories/
 
