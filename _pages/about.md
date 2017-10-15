@@ -1,6 +1,6 @@
 ---
 permalink: /about/
-title: "About me"
+title: "About us"
 
 ---
 
