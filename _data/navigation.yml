@@ -4,7 +4,7 @@ main:
     url: /robocup_home
   - title: "Team"
     url: /team/
-   - title: "Staff"
+  - title: "Staff"
     url: /staff/
   - title: "Approach"
     url: /approach/
