@@ -7,9 +7,8 @@ title: "Contributions to Previous Robocups"
 **LyonTech** is composed by former members of **CPE Lyon team** and by former
 candidates for **Robocup** organization.
 
-- 'Lyon CPE" team : **3rd place at Robocup@work, Joao Pessoa, Brazil, 2013**
-- "CPE Robot Forum" team : **15th place at Robocup@home OPL Leipzig,
-Germany, 2016**
+- 'Lyon CPE" team  (including **Jacques Saraydaryan**, **Fabrice Jumel**): **3rd place at Robocup@work, Joao Pessoa, Brazil, 2013**
+- "CPE Robot Forum" team (including **Jacques Saraydaryan**, **Raphael Leber**, **Fabrice Jumel**) : **15th place at Robocup@home OPL Leipzig, Germany, 2016**
 - Lyon city and INSA **candidated for the organization of the Robocup, in 2016**
 (co-led by **Olivier Simonin** from Chroma/CITI team).
 - **Fabrice Jumel** (CPE Lyon/CITI) is a **Robocup@home** evangelist for France
