@@ -1,1 +1,4 @@
-
+---
+permalink: /links/
+title: "Links"
+---
