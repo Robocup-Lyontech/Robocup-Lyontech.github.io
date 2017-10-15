@@ -1,0 +1,11 @@
+# main links
+main:
+  - title: "About Me"
+    url: /about/
+  - title: "Publications"
+    url: /publications/
+  - title: "Posts"
+    url: /categories/
+
+
+

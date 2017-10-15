@@ -1,0 +1,12 @@
+essai 3
+
+<div class="responsive-video-container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/WT9vA7vR9ko?autoplay=1&loop=1&playlist=WT9vA7vR9ko&cc_load_policy=1rel=0&amp;controls=0&amp;showinfo=0" frameborder="0" allowfullscreen=""> </iframe>
+</div>
+
+essai 4
+
+<div class="responsive-video-container">
+<iframe  src="https://www.youtube.com/embed/WT9vA7vR9ko" frameborder="0" allowfullscreen=""> </iframe>
+</div>
+
