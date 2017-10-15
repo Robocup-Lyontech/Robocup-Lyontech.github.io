@@ -33,3 +33,24 @@ The **Robot Navigation Manager** is in charge of localizing the robot and allowi
 All human robot interactions are managed by the **Robot Human interaction** block embedded in the robot. The robot also maintains a knowledge database about its environment with the **world mapping** unit(humans, objects and points of interest positions).
 
 Finally, the **general manager block** works like an orchestrator and gives order to other blocks in order to achieve scenarios.
+
+1. N. Neverova, C. Wolf, G.W. Taylor, and F. Nebout. Moddrop: adaptive multimodal gesture recognition. IEEE Transactions on Pattern Analysis and Machine Intelligence (PAMI), 38(8):1692{1706, 2016.
+2. F. Baradel, C. Wolf, and J. Mille. Human action recognition: Pose-based attention draws focus to hands. In ICCV Workshop on Hands in Action, 2017.
+3. F. Baradel, C. Wolf, and J. Mille. Pose-conditioned spatio-temporal attention for human action recognition. Pre-print: arxiv:1703.10106, 2017.
+4. N. Neverova, C. Wolf, G.W. Taylor, and F. Nebout. Hand pose estimation through weakly-supervised learning of a rich intermediate representation. To appear in Computer Vision and Image Understanding (CVIU), 2017.
+5. D. Fourure, R. Emonet, E. Fromont, D. Muselet, A. Tremeau, and C. Wolf. Residual conv-deconv grid network for semantic segmentation. In British Machine Vision Conference (BMVC), 2017.
+6. B. Moysset, J. Louradour, and C. Wolf. Learning to detect and localize many objects from few examples. Pre-print: arxiv:1611.05664, 2016.
+7. F. Jumel, J. Saraydaryan, and O. Simonin. Mapping likelihood of encountering humans: application to path planning in crowded environment. In The Euro pean Conference on Mobile Robotics (ECMR), Proceedings of ECMR 2017, Paris, France, September 2017.
+8. M. Barbier, C. Laugier, O. Simonin, and J. Ibanez-Guzman. Classication of Drivers Manoeuvre for Road Intersection Crossing with Synthetic and Real Data.
+In 2017 IEEE Intelligent Vehicles Symposium (IV), Los Angeles, United States, June 2017.
+9. M. Andries, O. Simonin, and F. Charpillet. Localisation of humans, objects and robots interacting on load-sensing 
+oors. IEEE Sensors Journal, PP(99):12, 2015.
+10. L. Matignon, S. D'Alu, and O. Simonin. Multi-robot human scene observation based on hybrid metric-topological mapping. In European Conference on Mobile Robotics (ECMR), 2017.
+11. J. Saraydaryan, F. Jumel, and O. Simonin. Robots delivering services to moving people : Individual vs. group patrolling strategies. In IEEE ARSO, 2015.
+12. A. Grea, J. Saraydaryan, F. Jumel, and A. Guenard. A robotic and automation services ontology, architectures logicielles pour la robotique autonome, les systemes  cyber-physiques et les systemes auto-adaptables. In CAR, 2015.
+13. L. Sevrin, N. Noury, N. Abouchi, F. Jumel, B. Massot, and J. Saraydaryan. Preliminary results on algorithms for multi-kinect trajectory fusion in a living lab. In IRBM, 2015.
+14. J. Saraydaryan, F. Jumel, and Adrien Guenard. Astro: Architecture of services toward robotic objects. In IJCSI, 2014.
+15. E.Nauer A. Cordier, E. Gaillard. Man-machine collaboration to acquire adaptation knowledge for a case-based reasoning system. In ACM DL, editor, WWW 2012 { SWCS'12 Workshop, pages 1113{1120, Lyon, France, April 2012. ACM.
+16. J. Redmon and A. Farhadi. Yolo9000: Better, faster, stronger. In CVPR, 2017.
+
+
