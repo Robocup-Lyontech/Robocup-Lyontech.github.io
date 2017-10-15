@@ -1,18 +1,15 @@
 # main links
 main:
-  - title: "Team Members"
+  - title: "About Me"
     url: /about/
-  - title: "Scientific Approach "
+  - title: "About Me"
     url: /about/
+  - title: "About Me"
+    url: /about/
+  - title: "About Me"
+    url: /about/    
   - title: "Publications"
-    url: /about/
-  - title: "Previous Participations"
-    url: /about/
-   - title: "Contributions"
-    url: /about/
-    
-    
-    
+    url: /publications/
   - title: "Posts"
     url: /categories/
 
