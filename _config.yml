@@ -7,11 +7,11 @@
 
 # Site Settings
 locale                   : "en"
-title                    : "Robots & more"
+title                    : "Robocup LyonTech Team, Website"
 title_separator          : "-"
-name                     : "Fabrice Jumel"
+name                     : "Robocup LyonTech"
 description              : "Blog"
-url                      : "https://fabricejumel.github.io"
+url                      : "https://Robocup-Lyontech.github.io"
 baseurl                  : ""
 repository               : # GitHub username/repo-name e.g. "fabricejumel/minimal"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
@@ -55,9 +55,9 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter fabricejumel
+  username               : &twitter robocup-lyontech
 facebook:
-  username               : &facebook fabricejumel.10
+  username               : &facebook robocup.lyontech.9
   app_id                 :
   publisher              :
 og_image                 : # Open Graph/Twitter default site image
@@ -67,8 +67,8 @@ social:
   type                   : # Person or Organization (defaults to Person)
   name                   : # If the user or organization name differs from the site's name
   links: # An array of links to social media profiles
-  - "https://twitter.com/fabricejumel"
-  - "https://facebook.com/fabricejumel.10"
+  - "https://twitter.com/robocup-lyontech"
+  - "https://facebook.com/robocup.lyontech.9"
 
 # Analytics
 analytics:
@@ -79,7 +79,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Fabrice Jumel"
+  name             : "LyonTech"
   avatar           : "/assets/images/Fabrice_Jumel_200x200.jpg"
   bio              : "Professor Assistant, Creative&Robot Technologist, CPE Lyon \n, INRIA CITI CHROMA \n"
   location         : Lyon France
@@ -91,12 +91,12 @@ author:
   flickr           :
   facebook         :  *facebook
   foursquare       :
-  github           : "fabricejumel"
+  github           : "Robocup-Lyontech"
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         :  "fabrice-jumel"
+  linkedin         :  
   pinterest        :
   soundcloud       :
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. http://stackoverflow.com/users/123456/username)
@@ -106,7 +106,7 @@ author:
   vine             :
   weibo            :
   xing             :
-  youtube          : "https://www.youtube.com/channel/UCNbGjOhz5EIR0_WaXeVGUyA"
+  youtube          : "https://www.youtube.com/channel/UCx9NVGGgVgTeey2T23_AqqA/"
 
 
 # Reading Files
