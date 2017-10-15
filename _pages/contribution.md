@@ -16,5 +16,5 @@ Germany, 2016**
 
   - He is member as the organisation commitee for application of Bordeaux for Robocup 2020 
   - He is **TC Robocup@home for 2017-2018**. 
-  - he is  the Organizer of a French @home open (first edition 24, 25th January 2018 in Lyon). 
+  - He is  the Organizer of a French @home open (first edition 24, 25th January 2018 in Lyon). 
   - He was **OC for Robocup@home SSPL in Nagoya** and **OC for Robocup@home LARC in Recife**.
