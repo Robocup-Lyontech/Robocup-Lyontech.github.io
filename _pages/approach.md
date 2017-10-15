@@ -33,6 +33,8 @@ All human robot interactions are managed by the **Robot Human interaction** bloc
 
 Finally, the **general manager block** works like an orchestrator and gives order to other blocks in order to achieve scenarios.
 
+## References
+
 1. N. Neverova, C. Wolf, G.W. Taylor, and F. Nebout. Moddrop: adaptive multimodal gesture recognition. IEEE Transactions on Pattern Analysis and Machine Intelligence (PAMI), 2016.
 2. F. Baradel, C. Wolf, and J. Mille. Human action recognition: Pose-based attention draws focus to hands. In ICCV Workshop on Hands in Action, 2017.
 3. F. Baradel, C. Wolf, and J. Mille. Pose-conditioned spatio-temporal attention for human action recognition. Pre-print: arxiv:1703.10106, 2017.
