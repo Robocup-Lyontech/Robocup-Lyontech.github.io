@@ -4,46 +4,7 @@ add images to Research Part
 Think about links
 
 
-----------TRICKS---------
-Important files :
-_includes/home_custom.html
-Robocup-Lyontech.github.io/_data/navigation.yml
 
-Add videos :
-2 solutions 
-
-{% include video id="WT9vA7vR9ko" provider="youtube" %}
-<iframe width="200" height="200" src="https://www.youtube.com/embed/WT9vA7vR9ko" frameborder="0" > </iframe>
-
-video auto play and loop
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TPTh_KjVUJQ?autoplay=1&loop=1" frameborder="0" allowfullscreen></iframe>
-
-Add Images :
-Markdown
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
-
-Jekyll Minimal Mistakes
-{% include figure image_path="/assets/images/LyonTech_Lyon_800.jpg" alt="this is a placeholder image" caption="LyonTech Pepper in front of the hill of Fourvière " %}
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
------USEFULL ABOUT MARKDONW and Minimal Mistake
-https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
 
 
 
