@@ -8,7 +8,7 @@ The architecture of **LyonTech**'s embedded AI software is shown in Figure 3. It
 **The scientic expertise of the consortium** is broad and targets the needs of the competition:
 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TPTh_KjVUJQ&autoplay=1&loop=1" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TPTh_KjVUJQ?autoplay=1&loop=1" frameborder="0" allowfullscreen></iframe>
 
 
 ## Perception
