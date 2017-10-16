@@ -1,5 +1,5 @@
 ---
-permalink: /robocup_lyontech/
+permalink: /team/
 title: "Lyon Tech Convergence"
 ---
 ## LyonTech Foundation
