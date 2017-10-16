@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en"
-title                    : "Robocup LyonTech Team, Website"
+title                    : "Robocup LyonTech Team"
 title_separator          : "-"
 name                     : "Robocup LyonTech"
 description              : "Blog"
