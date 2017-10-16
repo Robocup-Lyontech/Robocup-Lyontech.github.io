@@ -6,10 +6,10 @@ title: "Staff of LyonTech Team"
 ## Robocup LyonTech Team
 Robocup LyonTech consortium is ready and motivated for Robocup@home thematics and especially for the Social Standard Platform.
 We provide :
- 1. highly qualified researchers in several areas of robotics (robot navigation, robot control, computer vision); 
- 2. a fruitful collaboration between researchers and engineers; iii) past participations in the competition; 
- 3. the integration of a large number of highly qualified students from different engineering schools (eq. Universities); 
- 4. expertise on ROS and Naoqi frameworks.
+1. highly qualified researchers in several areas of robotics (robot navigation, robot control, computer vision); 
+2. a fruitful collaboration between researchers and engineers; iii) past participations in the competition; 
+3. the integration of a large number of highly qualified students from different engineering schools (eq. Universities); 
+4. expertise on ROS and Naoqi frameworks.
 
 ## Members of Robocup LyonTech Team
 - Fabrice Jumel (team leader) is assistant professor in [CPE Lyon](https://www.cpe.fr) (Engineering School). He is at the head of the "service robotics" major. He is a member of the [CHROMA INRIA](https://team.inria.fr/chroma/en/)  team of the [CITI Lab](http://www.citi-lab.fr/)  (Cooperative and Human-aware Robot Navigation in Dynamic Environments). He likes [Robocup](http://www.robocup.org/) and Robocup like competitions. He is the team leader of a [robocup@home](http://cpe-dev.fr/robotcup/) team and was previously the team leader of a robocup@work one. He's more precisely involved in social navigation, fleet of robots, robot assistant for elder or disease peoples. 
