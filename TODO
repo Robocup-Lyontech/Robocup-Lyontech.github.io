@@ -7,7 +7,15 @@ Think about links
 ----------TRICKS---------
 Important files :
 _includes/home_custom.html
+Robocup-Lyontech.github.io/_data/navigation.yml
 
+Add videos :
+3 solutions 
+{% include video id="vLFWwHZzr80" provider="youtube" %}
+
+{% include video id="WT9vA7vR9ko" provider="youtube" %}
+
+<iframe width="200" height="200" src="https://www.youtube.com/embed/WT9vA7vR9ko" frameborder="0" > </iframe>
 
 Add Images :
 Markdown
