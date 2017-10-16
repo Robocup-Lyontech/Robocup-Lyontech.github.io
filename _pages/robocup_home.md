@@ -5,6 +5,8 @@ title: "About Robocup@home"
 
 
 ### Robocup@Home Overview
+
+Robocup Lyontech is a one of **robocup@home** teams.
 The [robocup@Home](http://www.robocupathome.org/) challenge is one of the major league of the robocup competition. The aim of the [robocup@Home](http://www.robocupathome.org/) is the realization of set of simple actions into a complexe environment in contrast with RoboCupSoccer league where robots accomplish complex tasks into simple environment.
 Robots in [robocup@Home](http://www.robocupathome.org/) evolve into a « home-like » environment. They needs to accomplish tasks like interaction with human into natural language, human following, navigation into dynamic environment, learning where set of objets are,  pick and place actions according human order.
 
