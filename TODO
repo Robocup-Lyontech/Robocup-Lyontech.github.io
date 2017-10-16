@@ -3,7 +3,21 @@ Biography of staff
 add images to Research Part
 Think about links
 
+
+----------TRICKS---------
 Important files :
 _includes/home_custom.html
+
+
+Add Images :
+{% include figure image_path="/assets/images/LyonTech_Lyon_800.jpg" alt="this is a placeholder image" caption="LyonTech Pepper in front of the hill of Fourvière " %}
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+-----USEFULL ABOUT MARKDONW and Minimal Mistake
+https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+
+
+
 
 
