@@ -7,6 +7,9 @@ title: "Scientific approach for Robocup@home"
 The architecture of **LyonTech**'s embedded AI software is shown in Figure 3. It contains modules which have been developed in different research groups of the consortium, completed by ofthe shelf modules which tackle standard tasks, as well as engineering bricks interconnecting these modules. 
 **The scientic expertise of the consortium** is broad and targets the needs of the competition:
 
+<object  width="100%" data="https://youtu.be/TPTh_KjVUJQ">  </object>
+
+
 ## Perception
 Our computer vision experts bring knowledge in 
 - gesture recognition [1], 
