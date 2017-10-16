@@ -2,8 +2,8 @@
 main:
   - title: "Robocup@home"
     url: /robocup_home
-  - title: "Team"
-    url: /team/
+  - title: "Robocup LyonTech"
+    url: /robocup_lyontech/
   - title: "Staff"
     url: /staff/
   - title: "Approach"
