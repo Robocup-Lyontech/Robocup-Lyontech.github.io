@@ -1,7 +1,8 @@
 ----------TRICKS---------
 Important files :
 _includes/home_custom.html
-Robocup-Lyontech.github.io/_data/navigation.yml
+_data/navigation.yml
+_includes/author-profile-custom-links.html
 
 Add videos :
 2 solutions 
