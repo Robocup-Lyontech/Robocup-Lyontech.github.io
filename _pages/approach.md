@@ -50,7 +50,7 @@ Finally, the **general manager block** works like an orchestrator and gives orde
 8. M. Barbier, C. Laugier, O. Simonin, and J. Ibanez-Guzman. Classication of Drivers Manoeuvre for Road Intersection Crossing with Synthetic and Real Data.
 In 2017 IEEE Intelligent Vehicles Symposium (IV), Los Angeles, United States, June 2017.
 9. M. Andries, O. Simonin, and F. Charpillet. [Localisation of humans, objects and robots interacting on load-sensing 
-floors.(https://hal.inria.fr/hal-01196042v2/document) IEEE Sensors Journal, PP(99):12, 2015.
+floors.](https://hal.inria.fr/hal-01196042v2/document) IEEE Sensors Journal, PP(99):12, 2015.
 10. L. Matignon, S. D'Alu, and O. Simonin. [Multi-robot human scene observation based on hybrid metric-topological mapping.](https://ojs.cvut.cz/ojs/index.php/ap/article/view/AP.2015.55.0169) In European Conference on Mobile Robotics (ECMR), 2017.
 11. J. Saraydaryan, F. Jumel, and O. Simonin. Robots delivering services to moving people : Individual vs. group patrolling strategies. In IEEE ARSO, 2015.
 12. A. Gréea, J. Saraydaryan, F. Jumel, and A. Guenard. [A robotic and automation services ontology, architectures logicielles pour la robotique autonome, les systemes  cyber-physiques et les systémes auto-adaptables.](https://antoine.grea.me/astro/) In CAR, 2015.
