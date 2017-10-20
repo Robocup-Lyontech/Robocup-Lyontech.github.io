@@ -42,7 +42,18 @@ All human robot interactions are managed by the **Robot Human interaction** bloc
 
 Finally, the **general manager block** works like an orchestrator and gives order to other blocks in order to achieve scenarios.
 
-## References
+## Parallel with the Open Plateform integration 
+Many algorithms had been developed for the [robocup@home OPL in Leipzig](http://cpe-dev.fr/robotcup/) (2016) :
+- [Object Recognition](http://cpe-dev.fr/test-1-manipulation-and-object-recognition/)
+- [People Detection and Following](http://cpe-dev.fr/people-tracking/)
+- [Robot Navigation](http://cpe-dev.fr/navigation-test/)
+- [Object Pick and Place](http://cpe-dev.fr/grasping/)
+- [Human-Robot Vocal interaction](http://cpe-dev.fr/speech-recognition/)
+- [Sound Localisation](http://cpe-dev.fr/test-1-speech-recognition-audio-detection-test/)
+
+Some of the top level code might be reused this year for the SSPL. 
+
+## References 
 
 1. N. Neverova, C. Wolf, G.W. Taylor, and F. Nebout. [Moddrop: adaptive multimodal gesture recognition.](https://arxiv.org/pdf/1501.00102.pdf) IEEE Transactions on Pattern Analysis and Machine Intelligence (PAMI), 2016.
 2. F. Baradel, C. Wolf, and J. Mille. [Human action recognition: Pose-based attention draws focus to hands.](http://liris.cnrs.fr/christian.wolf/papers/iccv2017ws.pdf) In ICCV Workshop on Hands in Action, 2017.
