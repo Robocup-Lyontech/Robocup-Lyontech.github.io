@@ -6,7 +6,7 @@ title: "Scientific approach for Robocup@home"
 
 The architecture of **LyonTech**'s embedded AI software is shown below :
 
-<img src="https://www.overleaf.com/docs/11498377nfwtsgdqcxqd/atts/60601697" width="50" height="50" ALIGN="middle" > </img>
+<img src="https://www.overleaf.com/docs/11498377nfwtsgdqcxqd/atts/60601697" width="800" ALIGN="middle" >
 
 It contains modules which have been developed in different research groups of the consortium, completed by ofthe shelf modules which tackle standard tasks, as well as engineering bricks interconnecting these modules. All of this come on the top of the ["previous team" developments](http://cpe-dev.fr/robotcup/).
 **The scientic expertise of the consortium** is broad and targets the needs of the competition:
