@@ -13,7 +13,7 @@ Keynote speaker
 
 Thesis
 ======
-* Fabrice Jumel, Définition et gestion d'une qualité de serivce pour les applications temps réels, INPL Ecole des mines de Nancy
+* Fabrice Jumel, Définition et gestion d'une qualité de service pour les applications temps réel, INPL Ecole des mines de Nancy
 2013 sous la direction de Françoise Simonot-Lion et Nicolas Navet
 
 
