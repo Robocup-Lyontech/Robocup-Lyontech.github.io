@@ -15,6 +15,7 @@ title: "Contributions"
   - [Pose detection](https://github.com/m0rph03nix/ros_openpose_gossip) : based on the OpenPose data, we build a pose extractor gives us the estimate pose (stand, sit, lying down, left or right arm up,...)
 
 ## Previous results and works around RoboCup
+
 **LyonTech** is composed by former members of **CPE Lyon team** and by former candidates for **Robocup** organization.
 
 - "Lyon CPE" team  (including **Jacques Saraydaryan**, **Fabrice Jumel**): **3rd place at Robocup@work, Joao Pessoa, Brazil, 2013**
