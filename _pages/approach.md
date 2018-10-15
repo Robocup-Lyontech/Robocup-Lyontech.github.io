@@ -12,7 +12,7 @@ It contains modules which have been developed in different research groups of th
 **The scientic expertise of the consortium** is broad and targets the needs of the competition:
 
 
-<iframe width="560" height="315" src="images/archi.png" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="/assets/images/archi.png" frameborder="0" allowfullscreen></iframe>
 
 
 ## Perception
