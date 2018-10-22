@@ -4,7 +4,7 @@ title: "Scientific approach for Robocup@home"
 ---
 
 
-The architecture of **LyonTech**'s embedded AI software is shown below :
+The architecture of **LyonTech**'s embedded AI software is shown below [17] :
 
 <img src="/assets/images/archi.png" width="700" ALIGN="middle" >
 
@@ -73,5 +73,8 @@ floors.](https://hal.inria.fr/hal-01196042v2/document) IEEE Sensors Journal, PP(
 14. J. Saraydaryan, F. Jumel, and Adrien Guenard. [Astro: Architecture of services toward robotic objects.](https://www.ijcsi.org/papers/IJCSI-11-4-1-1-9.pdf) In IJCSI, 2014.
 15. E.Nauer A. Cordier, E. Gaillard. Man-machine collaboration to acquire adaptation knowledge for a case-based reasoning system. In ACM DL, editor, WWW 2012 { SWCS'12 Workshop, pages 1113{1120, Lyon, France, April 2012. ACM.
 16. J. Redmon and A. Farhadi. Yolo9000: Better, faster, stronger. In CVPR, 2017.
+17. F. Jumel, J. Saraydaryan, R. Leber, L. Matignon, E. Lombardi, C. Wolf, and O. Simonin. Context Aware Robot Architecture,
+Application to the RoboCup@Home Challenge. In RoboCup symposium, Montreal, Canada, June 2018.
+18. F. Jumel, J. Saraydaryan, and O. Simonin. Mapping likelihood of encountering humans: application to path planning in crowded environment. In The European Conference on Mobile Robotics (ECMR), Proceedings of ECMR 2017, Paris, France, September 2017.
 
 
