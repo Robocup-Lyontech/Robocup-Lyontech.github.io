@@ -4,7 +4,7 @@ title: "Scientific approach for Robocup@home"
 ---
 
 
-The architecture of **LyonTech**'s embedded AI software is shown below [17] :
+The architecture of **LyonTech**'s embedded AI software is shown below [17]() :
 
 <img src="/assets/images/archi.png" width="700" ALIGN="middle" >
 
