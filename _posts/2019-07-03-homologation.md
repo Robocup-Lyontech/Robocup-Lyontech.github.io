@@ -15,3 +15,8 @@ Nested and mixed lists are an interesting beast. It's a corner case to make sure
 ![Part of the team, support from Lyon](/assets/images/sydney2019/team_part.jpg)
 
 ![reduce but efficient team present at sydney](/assets/images/sydney2019/benoit_vincent.jpg)
+
+
+![robot](/assets/images/sydney2019/robot.jpg)
+
+![garbage](/assets/images/sydney2019/garbage.jpg)
