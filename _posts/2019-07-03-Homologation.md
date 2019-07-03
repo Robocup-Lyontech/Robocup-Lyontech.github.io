@@ -4,7 +4,9 @@ categories:
   - Sydney
 tags:
   - robocup
-image: https://robocup-lyontech.github.io/assets/images/sydney2019/robot_carree_s.jpg
+image: /assets/images/sydney2019/robot_carree_s.jpg
+thumbnail:/assets/images/sydney2019/robot_carree_s.jpg
+
 ---
 
 
