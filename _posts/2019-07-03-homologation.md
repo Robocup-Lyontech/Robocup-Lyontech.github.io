@@ -1,5 +1,5 @@
 ---
-title: "Homologation"
+title: "Homologation de l'équipe Robocup LyonTech"
 categories:
   - Sydney
 tags:
