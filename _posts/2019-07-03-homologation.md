@@ -7,7 +7,7 @@ tags:
 
 ---
 
-L’équipe Robocup LyonTech passe la phase d'homologation de la competion  robocup@home de l'édition 2019 de la robocup.
+L’équipe Robocup LyonTech passe la phase d'homologation/inspection de la competion  robocup@home de l'édition 2019 de la robocup.
 
 
 ![robot](/assets/images/sydney2019/robot.jpg)
