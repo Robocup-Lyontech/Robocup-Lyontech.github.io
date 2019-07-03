@@ -29,4 +29,4 @@ Créé en 2017 ,l'équipe LyonTech participe cette année à sa deuxième compé
 
 ![garbage](/assets/images/sydney2019/garbage_s.jpg)
 
-<!--[garbage](/assets/images/sydney2019/poster.jpg) texte en commentaire -->!
+<!--[garbage](/assets/images/sydney2019/poster.jpg) texte en commentaire -->
