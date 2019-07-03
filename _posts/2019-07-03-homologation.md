@@ -4,12 +4,9 @@ categories:
   - Sydney
 tags:
   - robocup
-
----
-
----
 image: /assets/images/sydney2019/robot.jpg
 ---
+
 
 L’équipe Robocup LyonTech passe la phase d'homologation/inspection de la compétition  robocup@home de l'édition 2019 de la Robocup.
 
