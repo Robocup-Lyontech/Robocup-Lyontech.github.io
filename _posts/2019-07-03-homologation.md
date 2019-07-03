@@ -24,7 +24,7 @@ Le but de la compétition robocup@home est de proposer des challenges robotiques
 
 Les épreuves reprennent demain avec en ce qui concerne l'équipe LyonTech, des épreuves d'acceuil d'invités à une soirée et de sortie de poubelles. Des épreuves simples en apparence mais qui nécessitent de naviguer en toute sécurité dans un appartement encombré et de savoir demander de l'aide de manière intelligente et efficace comme par exemple pour nouer un sac ou ouvrir une porte. 
 
-Créé en 2017 ,L'équipe LyonTech participe cette année à sa deuxième compétition après une belle édition 2018 à Montreal ou elle a finit à la cinquième place de sa league.
+Créé en 2017 ,L'équipe LyonTech participe cette année à sa deuxième compétition après une belle édition 2018 à Montreal où elle a fini à la cinquième place de sa league.
 
 ![garbage](/assets/images/sydney2019/garbage_s.jpg)
 
