@@ -5,7 +5,7 @@ categories:
 tags:
   - robocup
 image: /assets/images/sydney2019/robot_carree_s.jpg
-thumbnail:/assets/images/sydney2019/robot_carree_s.jpg
+thumbnail: /assets/images/sydney2019/robot_carree_s.jpg
 
 ---
 
