@@ -1,9 +1,9 @@
 ---
 title: "Test"
 categories:
-  - Science
+  - Sydney
 tags:
-  - content
+  - robocup
 
 ---
 
