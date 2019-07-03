@@ -8,10 +8,10 @@ tags:
 ---
 
 L’équipe Robocup LyonTech passe la phase d'homologation de la competion  robocup@home de l'édition 2019 de la robocup.
-![Part of the team, support from Lyon]
+
 
 ![robot](/assets/images/sydney2019/robot.jpg)
-![reduce but efficient team present at sydney](/assets/images/sydney2019/benoit_vincent.jpg)
+![reduce but efficient team present at sydney](/assets/images/sydney2019/benoit_vincent_s.jpg)
 
 
 L'équipe lyontech  est porté par  les écoles d'ingénieurs  INSA de lyon et  CPE lyon du campus La Doua-Lyontec. elle est composé en grande partie par des enseignants chercheurs  des laboratoires LIRIS, CITI et de l'équipe Inria Chroma.
