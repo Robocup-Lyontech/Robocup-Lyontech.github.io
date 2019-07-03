@@ -26,6 +26,6 @@ Les épreuves reprennent demain avec en ce qui concerne l'équipe LyonTech, des 
 
 Créé en 2017 ,L'équipe LyonTech participe cette année à sa deuxième compétition après une belle édition 2018 à Montreal ou elle a finit à la cinquième place de sa league.
 
-![garbage](/assets/images/sydney2019/garbage.jpg)
+![garbage](/assets/images/sydney2019/garbage_s.jpg)
 
 <!--[garbage](/assets/images/sydney2019/poster.jpg) texte en commentaire -->!
