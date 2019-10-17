@@ -3,15 +3,15 @@ main:
   - title: "Robocup@home"
     url: /robocup_home
   - title: "LyonTech Team"
-    url: /robocup_lyontech/
+    url: /lyontech_team/
   # - title: "Staff"
   #  url: /staff/
   #- title: "Approach"
   #  url: /approach/
   - title: "SSPL"
-    url: /sspl
+    url: /sspl/
   - title: "OPL"
-    url: /opl    
+    url: /opl/  
   - title: "Contributions"
     url: /contribution/
   - title: "Links"

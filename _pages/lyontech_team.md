@@ -1,8 +1,8 @@
 ---
-permalink: /robocup_lyontech/
-title: "Lyon Tech Convergence"
+permalink: /lyontech_team/
+title: "LyonTech : a smart convergence of academic actors in the field of robotics in Lyon"
 ---
-## Robocup LyonTech Foundation
+## The Robocup LyonTech Team
 
 The **Robocup LyonTech Team** or  consortium consists of highly qualified researchers in computer science (AI, vision, navigation) working in research and teaching environments together with groups of highly skilled students.
 
@@ -46,7 +46,7 @@ eet management). It helps them to define use cases to drive research focus. For 
 
 - [**Raphael Leber**](https://m0rph03nix.github.io) (**team leader**) is an assistant professor at [CPE Lyon](https://www.cpe.fr) (Engineering School) since 2014. He develops robotic platorms and teaches in the "service robotics" major. Before working as an academic, he gained a relevant experience in a [Korean robotic laboratory](http://irl.postech.ac.kr), in a [former french robotic company](https://www.ald.softbankrobotics.com/en) and in a [company specialized in embedded systems](https://www.viveris.fr/index.php/viveris-technologies.html) (R&D and then R&I). He holds a Master’s Degree in Embedded Electronics from the University of Technology of Belfort-Montbéliard, 2010.
 
-**Sébastien ALTOUNIAN** is a final year student at [CPE Lyon](https://www.cpe.fr) (engineering school). He combines skills in mechatronics: mechanics (modelling and 3D printing), electronics and embedded systems, robotic integration tools (ROS), high-level development (web) and various craft skills (carpentry, metallurgy, automotive mechanics...). Curious, proactive, eager to learn, he also completed a double degree at [emlyon business school](https://www.em-lyon.com) in strategy and innovation management. He therefore has a hybrid profile of engineer-technician-manager-maker. He created the makerspace IDIoTsLab, a collaborative design and prototyping workshop.
+- **Sébastien ALTOUNIAN** is a final year student at [CPE Lyon](https://www.cpe.fr) (engineering school). He combines skills in mechatronics: mechanics (modelling and 3D printing), electronics and embedded systems, robotic integration tools (ROS), high-level development (web) and various craft skills (carpentry, metallurgy, automotive mechanics...). Curious, proactive, eager to learn, he also completed a double degree at [emlyon business school](https://www.em-lyon.com) in strategy and innovation management. He therefore has a hybrid profile of engineer-technician-manager-maker. He created the makerspace IDIoTsLab, a collaborative design and prototyping workshop.
 
 - [**Fabrice Jumel**](https://fabricejumel.github.io/) (team leader in 2018) is assistant professor in [CPE Lyon](https://www.cpe.fr) (Engineering School). He is at the head of the "service robotics" major. He is a member of the [CHROMA INRIA](https://team.inria.fr/chroma/en/)  team of the [CITI Lab](http://www.citi-lab.fr/)  (Cooperative and Human-aware Robot Navigation in Dynamic Environments). He likes [Robocup](http://www.robocup.org/) and Robocup like competitions. He was previously the team leader of a [robocup@home team](http://cpe-dev.fr/robotcup/) and was previously the team leader of a robocup@work one. He's more precisely involved in social navigation, fleet of robots, robot assistant for elder or disease peoples. 
 
