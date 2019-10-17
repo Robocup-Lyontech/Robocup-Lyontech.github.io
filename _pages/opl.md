@@ -1,6 +1,6 @@
 ---
 permalink: /opl/
-title: "Scientific approach for Robocup@home"
+title: "Open Plateform League"
 ---
 
 
