@@ -2,12 +2,16 @@
 main:
   - title: "Robocup@home"
     url: /robocup_home
-  - title: "Robocup LyonTech"
+  - title: "LyonTech Team"
     url: /robocup_lyontech/
-  - title: "Staff"
-    url: /staff/
-  - title: "Approach"
-    url: /approach/
+  # - title: "Staff"
+  #  url: /staff/
+  #- title: "Approach"
+  #  url: /approach/
+  - title: "SSPL"
+    url: /sspl
+  - title: "OPL"
+    url: /opl    
   - title: "Contributions"
     url: /contribution/
   - title: "Links"
