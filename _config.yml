@@ -80,7 +80,7 @@ analytics:
 # Site Author
 author:
   name             : "LyonTech"
-  avatar           : "/assets/images/lyontech_200x200.jpg"
+  avatar           : "/assets/images/logo_lyontech.png"
   bio              : "Robocup LyonTech Team"
   location         : Lyon France
   email            :

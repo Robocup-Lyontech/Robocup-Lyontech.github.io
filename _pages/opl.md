@@ -3,19 +3,22 @@ permalink: /opl/
 title: "Open Plateform League"
 ---
 
-Our Open Platform named \textbf{Palbator} (Figure~\ref{wrap-fig:1} and Figure~\ref{fig:archi-hard-features}) is made from a PMB-2 PAL mobile base, enhanced by several hardware and software features. It's body contains a 7 DoF (1P + 6R) custom arm made of 1 prismatic joint (elevator) and 6 revolute joints. It's designed to reach objects on the floor or on a top shelf (~1m80) with a 1.5Kg payload.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/am0lZ7B3gYM" frameborder="0" allowfullscreen></iframe>
+
+<img src="/assets/images/opl/OPLPlateformev3t.png" ALIGN="right" width="180" >
+
+Our Open Platform named **Palbator** is made from a PMB-2 PAL mobile base, enhanced by several hardware and software features. It's body contains a 7 DoF (1P + 6R) custom arm made of 1 prismatic joint (elevator) and 6 revolute joints. It's designed to reach objects on the floor or on a top shelf (~1m80) with a 1.5Kg payload.
+
+<img src="/assets/images/opl/robot_archi_hard_OPL2020_v3.png" width="480" ALIGN="center" >  
 
 
-<img src="/assets/images/opl/OPLPlateformev3t.png" ALIGN="right" width=150 >
+Our software architecture is distributed on several hardware platforms as shown below. As we use ROS and independent software modules, we can easily (un)scale our hardware .
 
-Our software architecture is distributed on several hardware platforms as shown in Figure \ref{fig:archi_hard_soft}. As we use ROS and independent software modules, we can easily (un)scale our hardware .
+<img src="/assets/images/opl/archi_hard_soft.png" width="600" ALIGN="middle" >
 
-The architecture of LyonTech's software is shown in Figure \ref{fig:archi}. It contains modules which have been developed in the different research groups of the consortium, completed by off-the shelf modules which tackle standard tasks, as well as engineering bricks interconnecting these modules.
+The architecture of LyonTech's software is shown below. It contains modules which have been developed in the different research groups of the consortium, completed by off-the shelf modules which tackle standard tasks, as well as engineering bricks interconnecting these modules.
 
-
-The architecture of **LyonTech**'s embedded AI software is shown below [17] :
-
-<img src="/assets/images/opl/architecture2020_v2_OPL.png" width="700" ALIGN="middle" >
+<img src="/assets/images/opl/architecture2020_v2_OPL.png" width="600" ALIGN="middle" >
 
 
 **The scientic expertise of the consortium** is broad and targets the needs of the competition:
