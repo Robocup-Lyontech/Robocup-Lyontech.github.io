@@ -42,16 +42,6 @@ All human robot interactions are managed by the **Robot Human interaction** bloc
 
 Finally, the **general manager block** works like an orchestrator and gives order to other blocks in order to achieve scenarios.
 
-## Parallel with the Open Plateform integration 
-Many algorithms had been developed for the [robocup@home OPL in Leipzig](http://cpe-dev.fr/robotcup/) (2016) :
-- [Object Recognition](http://cpe-dev.fr/test-1-manipulation-and-object-recognition/)
-- [People Detection and Following](http://cpe-dev.fr/people-tracking/)
-- [Robot Navigation](http://cpe-dev.fr/navigation-test/)
-- [Object Pick and Place](http://cpe-dev.fr/grasping/)
-- [Human-Robot Vocal interaction](http://cpe-dev.fr/speech-recognition/)
-- [Sound Localisation](http://cpe-dev.fr/test-1-speech-recognition-audio-detection-test/)
-
-Some of the top level code might be reused this year for the SSPL. 
 
 ## References 
 

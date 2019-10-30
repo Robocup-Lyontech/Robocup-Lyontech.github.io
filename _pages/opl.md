@@ -3,12 +3,21 @@ permalink: /opl/
 title: "Open Plateform League"
 ---
 
+Our Open Platform named \textbf{Palbator} (Figure~\ref{wrap-fig:1} and Figure~\ref{fig:archi-hard-features}) is made from a PMB-2 PAL mobile base, enhanced by several hardware and software features. It's body contains a 7 DoF (1P + 6R) custom arm made of 1 prismatic joint (elevator) and 6 revolute joints. It's designed to reach objects on the floor or on a top shelf (~1m80) with a 1.5Kg payload.
+
+
+<img src="/assets/images/opl/OPLPlateformev3t.png" ALIGN="right" >
+
+Our software architecture is distributed on several hardware platforms as shown in Figure \ref{fig:archi_hard_soft}. As we use ROS and independent software modules, we can easily (un)scale our hardware .
+
+The architecture of LyonTech's software is shown in Figure \ref{fig:archi}. It contains modules which have been developed in the different research groups of the consortium, completed by off-the shelf modules which tackle standard tasks, as well as engineering bricks interconnecting these modules.
+
 
 The architecture of **LyonTech**'s embedded AI software is shown below [17] :
 
-<img src="/assets/images/archi.png" width="700" ALIGN="middle" >
+<img src="/assets/images/opl/architecture2020_v2_OPL.png" width="700" ALIGN="middle" >
 
-It contains modules which have been developed in different research groups of the consortium, completed by ofthe shelf modules which tackle standard tasks, as well as engineering bricks interconnecting these modules. All of this come on the top of the ["previous team" developments](http://cpe-dev.fr/robotcup/).
+
 **The scientic expertise of the consortium** is broad and targets the needs of the competition:
 
 
@@ -42,16 +51,6 @@ All human robot interactions are managed by the **Robot Human interaction** bloc
 
 Finally, the **general manager block** works like an orchestrator and gives order to other blocks in order to achieve scenarios.
 
-## Parallel with the Open Plateform integration 
-Many algorithms had been developed for the [robocup@home OPL in Leipzig](http://cpe-dev.fr/robotcup/) (2016) :
-- [Object Recognition](http://cpe-dev.fr/test-1-manipulation-and-object-recognition/)
-- [People Detection and Following](http://cpe-dev.fr/people-tracking/)
-- [Robot Navigation](http://cpe-dev.fr/navigation-test/)
-- [Object Pick and Place](http://cpe-dev.fr/grasping/)
-- [Human-Robot Vocal interaction](http://cpe-dev.fr/speech-recognition/)
-- [Sound Localisation](http://cpe-dev.fr/test-1-speech-recognition-audio-detection-test/)
-
-Some of the top level code might be reused this year for the SSPL. 
 
 ## References 
 
