@@ -23,10 +23,6 @@ The architecture of LyonTech's software is shown below. It contains modules whic
 
 **The scientic expertise of the consortium** is broad and targets the needs of the competition:
 
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xv1Da-CqZr4" frameborder="0" allowfullscreen></iframe>
-
-
 ## Perception
 Our computer vision experts bring knowledge in 
 - gesture recognition [1], 
@@ -41,18 +37,22 @@ A large part of these methods are capable of running on real time and have been 
 ## Motion planning and Decision making
 Our expertise in robotics relates to motion planning in dynamic and uncertain environments, mapping, localization and decision-making for single and multi-robot systems. The work focuses on autonomous navigation in crowded environments (human-aware navigation) and in urban traffic (autonomous vehicles) for human assistance [7,9]. We also explore robot and  cooperation for human scene observation [10], 3D environment mapping, transport and service delivery [11]. We experiment and evaluate the models with Pepper humanoids, fleets of mobile robots (cf. Figure 2) and UAVs, and two equipped/autonomous cars (see https://team.inria.fr/chroma/en/plate-formes/). 
 
-## Human-Robot Interactions 
-We have been working for years on different interactions with robots (from teleoperation to multirobots orchestration [12,15]). Since this year, we also get strong support from the Hoomano company, which creates solutions for Human-Robot interaction in real world applications, in particular for Pepper robots.
+
+## Human-Robot Interaction
+Human-Robot Interaction is managed with a classical combination of natural language communication and use of a tablet.
+
+ For Natural Language Understanding (NLU), we are using the off-the-shelf solution, free for non-commercial use software Snips. Snips offer a way to construct an offline solution for speech recognition. 
+Snips uses very few resources that it can be embedded on a Raspberry Pi. We use an array of microphones (matrix creator one)  to improve sound localization .
+
+Concerning text-to-speech, we are using the classical open source solution Espeak, another solution Acapella is being explored. 
+
+ For tablet interaction, we reused a web application (based on ReactJS) developed for  pepper robot  and successfully used during SSPL robocup@home competition in Sydney. 
+
 
 ## Integration 
-All components are integrated using the ROS middleware, which is the base system of our robot. ROS offers the ability to connect a set of programs through synchronous and asynchronous communication. Moreover, by allowing a set of heterogeneous components (probes, actuators, services) to communicate in a normalized way, processing program can be reused. The **naoqi sdk**, provided by **softbank/aldebaran** with the **Pepper robot**, gives a set of API that is mainly used for Robot and Human interactions (speech recognition, text to speech, robot behavior feedbacks). In order to highlight the robot activity, the Pepper tablet gives visual feedbacks (javascript framework).
+The Ros Middleware is used to integrate components (customized packages and LyonTech packages), set of functional blocks are orchestrated through a General manager. 
 
-We define five principal functionality blocks in our architecture:
-The **Robot Navigation Manager** is in charge of localizing the robot and allowing dynamic navigation (obstacles avoidance). The analysis of the robot  environment is performed by **Object Detection** and recognition modules, mainly deep neural networks developed inhouse [6] or of-the-shelf modules like YOLO 9000 [16]. Labeled object positions are provided to other blocks.
 
-All human robot interactions are managed by the **Robot Human interaction** block embedded in the robot. The robot also maintains a knowledge database about its environment with the **world mapping** unit(humans, objects and points of interest positions).
-
-Finally, the **general manager block** works like an orchestrator and gives order to other blocks in order to achieve scenarios.
 
 
 ## References 
