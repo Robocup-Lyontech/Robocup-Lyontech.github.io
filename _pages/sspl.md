@@ -4,15 +4,16 @@ title: "Social Standard Plateform League"
 ---
 <iframe width="560" height="315" src="https://www.youtube.com/embed/6DnTP3k-580" frameborder="0" allowfullscreen></iframe>
 
+In the case of SSPL league, the standard plateform is a pepper robot from Softbanks robotics. We are not allowed to modify the robot but we could use some external computing devices.
+
+
 The architecture of **LyonTech**'s embedded AI software is shown below [17] :
 
 <img src="/assets/images/archi.png" width="700" ALIGN="middle" >
 
-It contains modules which have been developed in different research groups of the consortium, completed by ofthe shelf modules which tackle standard tasks, as well as engineering bricks interconnecting these modules. All of this come on the top of the ["previous team" developments](http://cpe-dev.fr/robotcup/).
-**The scientic expertise of the consortium** is broad and targets the needs of the competition:
+It contains modules which have been developed in different research groups of the consortium, completed by ofthe shelf modules which tackle standard tasks, as well as engineering bricks interconnecting these modules.
 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xv1Da-CqZr4" frameborder="0" allowfullscreen></iframe>
 
 
 ## Perception
