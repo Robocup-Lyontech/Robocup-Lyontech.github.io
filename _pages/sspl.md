@@ -5,7 +5,7 @@ title: "Social Standard Plateform League"
 <iframe width="560" height="315" src="https://www.youtube.com/embed/6DnTP3k-580" frameborder="0" allowfullscreen></iframe>
 
 In the case of SSPL league, the standard plateform is a pepper robot from Softbanks robotics. We are not allowed to modify the robot but we could use some external computing devices.
-
+<img src="/assets/images/sspl/pepper_iron.PNG" width="700" ALIGN="middle" >
 
 The architecture of **LyonTech**'s embedded AI software is shown below [17] :
 
