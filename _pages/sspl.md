@@ -2,7 +2,7 @@
 permalink: /sspl/
 title: "Social Standard Plateform League"
 ---
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6DnTP3k-580" frameborder="0" allowfullscreen></iframe>
 
 The architecture of **LyonTech**'s embedded AI software is shown below [17] :
 
