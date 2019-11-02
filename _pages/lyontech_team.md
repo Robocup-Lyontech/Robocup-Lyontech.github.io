@@ -7,11 +7,10 @@ title: "LyonTech : a smart convergence of academic actors in the field of roboti
 The **Robocup LyonTech Team** or  consortium consists of highly qualified researchers in computer science (AI, vision, navigation) working in research and teaching environments together with groups of highly skilled students.
 
 **La Doua - LyonTech** is the main technology campus of Lyon, France. This campus is home to 25000 students, 1500 researchers and 1200 PhD students, spread out over a 100 hectare area.
-Different organizations inside the campus gathered to create the **LyonTech team** in order to participate to the **Robocup@home challenge**. The **LyonTech team members** belong to three teaching entities, two research laboratories, and mainly to the Chroma research team from INRIA :
+Different organizations inside the campus gathered to create the **LyonTech team** in order to participate to the **Robocup@home challenge**. The **LyonTech team members** belong to two teaching entities, two research laboratories, and mainly to the Chroma research team from INRIA :
 
 - **CPE Lyon**, Engineering school, former robocup team in 2013 and 2016
 - **INSA Lyon**, Engineering school, candidate for robocup 2016 organization
-- **University Claude Bernard Lyon 1** and its engineering school Polytech Lyon
 - **CITI Lab.**, Centre of Innovation in Telecommunications and Integration of Service (INRIA)
 - **INRIA**, Computer science and Mathematics laboratory
 - **LIRIS**, Vision and information system laboratory (CNRS)
@@ -24,9 +23,6 @@ The 3 teaching entities mentioned in introduction are very active in the robotic
 Naos, Peppers, Turtlebots, UAVs ...). To finish their training, students have to work on a robotic project. Robocup@home is a convenient opportunity for students to work on a challenging global project, so we decided to keep working on this Robocup@home project for the following years.
 
 - **INSA Lyon** is a leading engineering school belonging to the French INSA institute (National Institute of Applied Sciences). INSA Lyon boasts 23 research laboratories, more than 600 researchers and teacher-researchers, 650 PhD students and over 1,000 industrial contracts with the socio-economic world. It has been now 4 years that the Telecom Department has been offering a "Robotics & A.I." specialization during the fifth year. Students are trained to autonomous navigation (perception, mapping, planning) and multi-robot cooperation. They also carry out a project, under ROS system, with mobile robots among one Pepper humanoid, 20 Turtlebot robots and 5 Parrot Bibop UAVs. Since 2017 some of them are working on human-aware navigation with Pepper for the Robocup@home project.
-
-- **Polytech Lyon** is an engineering school integrated to University Claude Bernard Lyon 1. The school's IT Department offers an "agent and multi-agent systems" module that focuses on artificial intelligence, considering various learning approaches (machine learning, developmental learning) or bio-inspired methods.
-Specific courses in this module are dedicated to a project where students have to apply these techniques to robotics, using robotic framework ROS and a platform composed of mobile robots. Robocup@home provides a suitable and motivating setting for this project.
 
 ## Research competences
 
@@ -44,7 +40,7 @@ eet management). It helps them to define use cases to drive research focus. For 
 
 ## Members of Robocup LyonTech Team
 
-- [**Raphael Leber**](https://m0rph03nix.github.io) (**team leader**) is an assistant professor at [CPE Lyon](https://www.cpe.fr) (Engineering School) since 2014. He develops robotic platorms and teaches in the "service robotics" major. Before working as an academic, he gained a relevant experience in a [Korean robotic laboratory](http://irl.postech.ac.kr), in a [former french robotic company](https://www.ald.softbankrobotics.com/en) and in a [company specialized in embedded systems](https://www.viveris.fr/index.php/viveris-technologies.html) (R&D and then R&I). He holds a Master’s Degree in Embedded Electronics from the University of Technology of Belfort-Montbéliard, 2010.
+- **Raphael Leber** (**team leader**) is an assistant professor at [CPE Lyon](https://www.cpe.fr) (Engineering School) since 2014. He develops robotic platorms and teaches in the "service robotics" major. Before working as an academic, he gained a relevant experience in a [Korean robotic laboratory](http://irl.postech.ac.kr), in a [former french robotic company](https://www.ald.softbankrobotics.com/en) and in a [company specialized in embedded systems](https://www.viveris.fr/index.php/viveris-technologies.html) (R&D and then R&I). He holds a Master’s Degree in Embedded Electronics from the University of Technology of Belfort-Montbéliard, 2010.
 
 - **Sébastien ALTOUNIAN** is a final year student at [CPE Lyon](https://www.cpe.fr) (engineering school). He combines skills in mechatronics: mechanics (modelling and 3D printing), electronics and embedded systems, robotic integration tools (ROS), high-level development (web) and various craft skills (carpentry, metallurgy, automotive mechanics...). Curious, proactive, eager to learn, he also completed a double degree at [emlyon business school](https://www.em-lyon.com) in strategy and innovation management. He therefore has a hybrid profile of engineer-technician-manager-maker. He created the makerspace IDIoTsLab, a collaborative design and prototyping workshop.
 
