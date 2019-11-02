@@ -44,4 +44,3 @@ These people features detection form also individual contributions:
 - [People management framework using a 2D camera for human-robot social interactions](https://hal.archives-ouvertes.fr/hal-02318916), **Best scientific paper**, **2019** 
 - [Towards S-NAMO: Socially-aware Navigation Among Movable Obstacles](https://hal.archives-ouvertes.fr/hal-02293242/file/Towards_Social_NAMO.pdf), **2019**
 - [Context Aware Robot Architecture, Application to the RoboCup@Home Challenge](https://hal.archives-ouvertes.fr/hal-01832613/file/context-aware-robot-revised.pdf), **2018**	
-\end{itemize}
