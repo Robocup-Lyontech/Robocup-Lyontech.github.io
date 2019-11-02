@@ -52,6 +52,9 @@ Concerning text-to-speech, we are using the classical open source solution Espea
 ## Integration 
 The Ros Middleware is used to integrate components (customized packages and LyonTech packages), set of functional blocks are orchestrated through a General manager. 
 
+Our robot evolves in an [apartment-like arena](https://robocup-lyontech.github.io/bordeaux/The-Robotic-Arena/)
+
+We are still in the process of customizing the robot to fit the robocup environnement : [Exemple with a hack of the PAL base](https://robocup-lyontech.github.io/bordeaux/The-baby-cup-case/)
 
 
 
