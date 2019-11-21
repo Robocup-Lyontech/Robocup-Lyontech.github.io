@@ -12,7 +12,7 @@ tags:
 We are looking for two or three candidates for an internship, in order to complete our robocup team. 
 
 ## Main goal: 
-Enhance our robot [OPL](https://robocup-lyontech.github.io/opl/) and [SSPL](https://robocup-lyontech.github.io/sspl/) with new features. Implemement those features in robocup scenario. Rules available [here](https://github.com/RoboCupAtHome/RuleBook) (clone and make content)
+Enhance our robot [OPL](https://robocup-lyontech.github.io/opl/)(PALbator) and [SSPL](https://robocup-lyontech.github.io/sspl/)(Pepper) with new features. Implemement those features in robocup scenario. Rules available [here](https://github.com/RoboCupAtHome/RuleBook) (clone and make content)
 
 ## Why is it great ?
 You will participate to the **biggest robotic competition** with :
@@ -36,7 +36,7 @@ You will compete with/against world **top-level** teams, work on **most recent t
 - OPL and if possible SSPL :
   - Develop **Speech recognition** and dialog capacity
   - End the work done on the tablet (mainly javascript)
-SSPL & OPL:
+- SSPL & OPL:
   - Ensure scenarios compatibility on the two plateforms
   - Collaborate to the "Clean up" and "Receptionist" scenarios which will be your test case on the 2 robots
 
