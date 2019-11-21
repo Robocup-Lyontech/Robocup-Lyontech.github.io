@@ -12,7 +12,7 @@ tags:
 We are looking for two or three candidates for an internship, in order to complete our robocup team. 
 
 ## Main goal: 
-Enhance our robot [OPL](https://robocup-lyontech.github.io/opl/)(PALbator) and [SSPL](https://robocup-lyontech.github.io/sspl/)(Pepper) with new features. Implemement those features in robocup scenario. Rules available [here](https://github.com/RoboCupAtHome/RuleBook) (clone and make content)
+Enhance our robot [OPL](https://robocup-lyontech.github.io/opl/) (PALbator) and [SSPL](https://robocup-lyontech.github.io/sspl/) (Pepper) with new features. Implemement those features in robocup scenario. Rules available [here](https://github.com/RoboCupAtHome/RuleBook) (clone and make content)
 
 ## Why is it great ?
 You will participate to the **biggest robotic competition** with :
@@ -46,6 +46,12 @@ You will compete with/against world **top-level** teams, work on **most recent t
 - "Clean up" scenarios : Develop and test the "Clean Up" scenario on the 2 robots. First without grasping for the 2 robots. Then with grasping for OPL
 
 ### Internship 3 (at CITI-Lab): To be defined !
+<!--- 
+- Mise en oeuvre de Rtab-Map sur Pepper 
+  - Dans un premier temps sur ROS sur un PC distant
+  - Dans un second temps sur le pepper
+  - Benchmarking avec perturbation réseaux
+-->
 
 ## When and where ? 
 The internship starts in February 2020 and ends in July 2020. Depending on the topic, the student will work either in CPE Lyon or in CITI-Lab. The 20th to the 28th of June we whole team will be at the competition in Bordeaux. 
