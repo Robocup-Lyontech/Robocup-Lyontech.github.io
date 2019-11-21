@@ -30,7 +30,7 @@ The team earned already a good reputation :
 You will compete with/against world **top-level** teams, work on **most recent technologies**, learn thousands of different things, and in the same time you will not really know if you are playing or working !
 
 ## Internship topic details 
-### Internship 1 : Human-robot interface for robocup scenarios
+### Internship 1 (at CPE): Human-robot interface for robocup scenarios
 - OPL : 
   - Full hardware implementation of the tablet and the speech recogition on the robot. 
 - OPL and if possible SSPL :
@@ -40,11 +40,12 @@ You will compete with/against world **top-level** teams, work on **most recent t
   - Ensure scenarios compatibility on the two plateforms
   - Collaborate to the "Clean up" and "Receptionist" scenarios which will be your test case on the 2 robots
 
-### Internship 2 : Ojects management and application to the "Clean Up" (the floor) robocup scenario
+### Internship 2 (at CPE): Ojects management and application to the "Clean Up" (the floor) robocup scenario
 - For OPL and SSPL : Detecting objects (**deeplearning**), 3D localisation for pointing and grasping, Objets taxonomy
 - For OPL only : Grasping objects with motion strategies adapted to each objects
 - "Clean up" scenarios : Develop and test the "Clean Up" scenario on the 2 robots. First without grasping for the 2 robots. Then with grasping for OPL
 
+### Internship 3 (at CITI-Lab): To be defined !
 
 ## When and where ? 
 The internship starts in February 2020 and ends in July 2020. Depending on the topic, the student will work either in CPE Lyon or in CITI-Lab. The 20th to the 28th of June we whole team will be at the competition in Bordeaux. 
