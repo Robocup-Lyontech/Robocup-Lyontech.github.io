@@ -12,7 +12,7 @@ tags:
 We are looking for two or three candidates for an internship, in order to complete our robocup team. 
 
 ## Main goal: 
-Enhance one of our [robot](https://robocup-lyontech.github.io/opl/) with new features. Implemement those features in robocup scenarios.
+Enhance our robot [OPL](https://robocup-lyontech.github.io/opl/) and [SSPL](https://robocup-lyontech.github.io/sspl/) with new features. Implemement those features in robocup scenario. Rules available [here](https://github.com/RoboCupAtHome/RuleBook) (clone and make content)
 
 ## Why is it great ?
 You will participate to the **biggest robotic competition** with :
@@ -30,13 +30,21 @@ The team earned already a good reputation :
 You will compete with/against world **top-level** teams, work on **most recent technologies**, learn thousands of different things, and in the same time you will not really know if you are playing or working !
 
 ## Internship topic details 
-Depending on your skills, we have different robot features on which you can work on:
-- Human-robot interface : Tablet (web languages) + **Speech recognition** and dialog capacity
-- Ojects management in scenarios like "Clean up" (the floor) 
-  - Detecting objects (**deeplearning**), 3D localisation, Objets taxonomy
-  - Grasping objects with motion strategies adapted to each objects
-- ...
-    
+### Internship 1 : Human-robot interface for robocup scenarios
+- OPL : 
+  - Full hardware implementation of the tablet and the speech recogition on the robot. 
+- OPL and if possible SSPL :
+  - Develop **Speech recognition** and dialog capacity
+  - End the work done on the tablet (mainly javascript)
+SSPL & OPL:
+  - Ensure scenarios compatibility on the two plateforms
+  - Collaborate to the "Clean up" and "Receptionist" scenarios which will be your test case on the 2 robots
+
+### Internship 2 : Ojects management and application to the "Clean Up" (the floor) robocup scenario
+- For OPL and SSPL : Detecting objects (**deeplearning**), 3D localisation for pointing and grasping, Objets taxonomy
+- For OPL only : Grasping objects with motion strategies adapted to each objects
+- "Clean up" scenarios : Develop and test the "Clean Up" scenario on the 2 robots. First without grasping for the 2 robots. Then with grasping for OPL
+
 
 ## When and where ? 
 The internship starts in February 2020 and ends in July 2020. Depending on the topic, the student will work either in CPE Lyon or in CITI-Lab. The 20th to the 28th of June we whole team will be at the competition in Bordeaux. 
