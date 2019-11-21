@@ -48,9 +48,11 @@ You will compete with/against world **top-level** teams, work on **most recent t
 ### Internship 3 (at CITI-Lab): To be defined !
 <!--- 
 - Mise en oeuvre de Rtab-Map sur Pepper 
-  - Dans un premier temps sur ROS sur un PC distant
-  - Dans un second temps sur le pepper
-  - Benchmarking avec perturbation réseaux
+- Dans un premier temps sur ROS sur un PC distant
+- Dans un second temps sur le pepper
+- Benchmarking avec perturbation réseaux
+- Dev people follower
+- Ecrire le scénario Restaurant sur OPL
 -->
 
 ## When and where ? 
