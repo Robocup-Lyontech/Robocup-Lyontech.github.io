@@ -48,10 +48,11 @@ You will compete with/against world **top-level** teams, work on **most recent t
 - "Clean up" scenarios : Develop and test the "Clean Up" scenario on the 2 robots. First without grasping for the 2 robots. Then with grasping for OPL
 
 ### Internship 3 (at CITI-Lab): Constraint Naviguation 
-
-- Naviguation and SLAM based on  RTAB-Map with  Pepper Robot (external computer device and embedded )
-- Naviguation strategies for constraint environnements as door crossing with  rotation, translation and update of the map
-- Benchmarking of influence of network capcacities
+- SSPL :
+  - Naviguation and SLAM based on  RTAB-Map with  Pepper Robot (external computer device and embedded )
+  - Naviguation strategies for constraint environnements as door crossing with  rotation, translation and update of the map
+  - Benchmarking of influence of network capcacities
+- SSPL & OPL : 
 - Definition of Restaurant scenario 
 - Premilary work on people following 
 
