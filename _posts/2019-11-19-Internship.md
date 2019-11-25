@@ -45,15 +45,15 @@ You will compete with/against world **top-level** teams, work on **most recent t
 - For OPL only : Grasping objects with motion strategies adapted to each objects
 - "Clean up" scenarios : Develop and test the "Clean Up" scenario on the 2 robots. First without grasping for the 2 robots. Then with grasping for OPL
 
-### Internship 3 (at CITI-Lab): To be defined !
-<!--- 
-- Mise en oeuvre de Rtab-Map sur Pepper 
-- Dans un premier temps sur ROS sur un PC distant
-- Dans un second temps sur le pepper
-- Benchmarking avec perturbation réseaux
-- Dev people follower
-- Ecrire le scénario Restaurant sur OPL
--->
+### Internship 3 (at CITI-Lab): Constraint Naviguation 
+
+- Naviguation and SLAM based on  RTAB-Map with  Pepper Robot (external computer device and embedded )
+- Naviguation strategies for constraint environnements as door crossing with  rotation, translation and update of the map
+- Benchmarking of influence of network capcacities
+- Definition of Restaurant scenario 
+- Premilary work on people following 
+
+
 
 ## When and where ? 
 The internship starts in February 2020 and ends in July 2020. Depending on the topic, the student will work either in CPE Lyon or in CITI-Lab. The 20th to the 28th of June we whole team will be at the competition in Bordeaux. 
