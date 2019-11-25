@@ -31,6 +31,9 @@ The team earned already a good reputation :
 
 You will compete with/against world **top-level** teams, work on **most recent technologies**, learn thousands of different things, and in the same time you will not really know if you are playing or working !
 
+Be part of a team composed of expert and researcher mainly from CITI LAb. Inria [Chroma Team](https://team.inria.fr/chroma/)
+
+
 ## Internship topic details 
 ### Internship 1 (at CPE): Human-robot interface for robocup scenarios
 - OPL : 
