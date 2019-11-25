@@ -14,7 +14,7 @@ tags:
 We are looking for two or three candidates for an internship, in order to complete our robocup team. 
 
 ## Main goal: 
-Enhance our robot [OPL](https://robocup-lyontech.github.io/opl/) (PALbator) and [SSPL](https://robocup-lyontech.github.io/sspl/) (Pepper) with new features. Implemement those features in robocup scenario. Rules available [here](https://github.com/RoboCupAtHome/RuleBook) (clone and make content)
+Enhance our robot [OPL](https://robocup-lyontech.github.io/opl/) (PALbator) and [SSPL](https://robocup-lyontech.github.io/sspl/) (Pepper) with new features. Implemement those features in robocup scenario. Rules available [here](https://github.com/RoboCupAtHome/RuleBook) (clone and make content) or [an old compiled version](https://robocup-lyontech.github.io/assets/pdf/Rulebook_robocup_2020-11-25.pdf)
 
 ## Why is it great ?
 You will participate to the **biggest robotic competition** with :
