@@ -56,8 +56,8 @@ Be part of a team composed of robotics  experts and researchers mainly from CITI
   - Naviguation strategies for constraint environnements as door crossing with  rotation, translation and update of the map
   - Benchmarking of influence of network capcacities
 - SSPL & OPL : 
-- Definition of Restaurant scenario 
-- Premilary work on people following 
+  - Definition of Restaurant scenario 
+  - Premilary work on people following 
 
 
 
