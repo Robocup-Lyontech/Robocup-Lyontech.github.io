@@ -5,6 +5,8 @@ categories:
 tags:
   - robocup
   - OPL
+  - SSPL
+  - Pepper
   - Palbator
 ---
 
