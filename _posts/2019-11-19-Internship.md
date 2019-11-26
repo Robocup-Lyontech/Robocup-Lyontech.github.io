@@ -50,6 +50,7 @@ Be part of a team composed of robotics  experts and researchers mainly from CITI
 - For OPL only : Grasping objects with motion strategies adapted to each objects
 - "Clean up" scenarios : Develop and test the "Clean Up" scenario on the 2 robots. First without grasping for the 2 robots. Then with grasping for OPL
 
+<!--
 ### Internship 3 (mainly at CITI-Lab): Constraint Naviguation 
 - SSPL :
   - Naviguation and SLAM based on  RTAB-Map with  Pepper Robot (external computer device and embedded )
@@ -58,7 +59,7 @@ Be part of a team composed of robotics  experts and researchers mainly from CITI
 - SSPL & OPL : 
   - Definition of Restaurant scenario 
   - Premilary work on people following 
-
+--->
 
 
 ## When and where ? 
