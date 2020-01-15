@@ -1,5 +1,5 @@
-c---
-title: "We are looking for on more intern !"
+---
+title: "We are looking for one more intern !"
 categories:
   - Bordeaux
 tags:
