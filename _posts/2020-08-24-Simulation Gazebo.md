@@ -11,4 +11,5 @@ Because of the Covid health context, we don't have access to the Lab and the rea
 
 
 
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=GhoL_x2BohU" frameborder="0" allowfullscreen></iframe>
+
+<iframe width="864" height="486" src="https://www.youtube.com/embed/GhoL_x2BohU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
