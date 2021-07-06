@@ -47,9 +47,9 @@ Benoit Renault **2, 3, 4**
 Jacques Saraydaryan **1, 3, 4**  
 Olivier Simonin **2, 3, 4**  
   
-**1.**CPE Lyon, **2.**INSA Lyon, **3.**INRIA Chroma team, **4.**CITI Lab., **5.**Palo IT 
+**1.**CPE Lyon, **2.**INSA Lyon, **3.**INRIA Chroma team, **4.**CITI Lab., **5.**Palo IT   
 
 
+  
 
-
-R. Leber pour l'équipe LyonTech
+Raphael pour l'équipe LyonTech
