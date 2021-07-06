@@ -38,16 +38,16 @@ Ce travail acharné aura engagé :
 
 Raphael Leber **1**   
 Sébastien Altounian **1**   
-Simon Ernst **1,5**  
+Simon Ernst **1, 5**  
 Florian Dupuis **1**  
 Jeanne Fort **1**   
-Fabrice Jumel **1,3,4**  
+Fabrice Jumel **1, 3, 4**  
 Cedric Mathou **1**  
-Benoit Renault **2,3,4**  
-Jacques Saraydaryan **1,3,4**  
-Olivier Simonin **2,3,4**  
+Benoit Renault **2, 3, 4**  
+Jacques Saraydaryan **1, 3, 4**  
+Olivier Simonin **2, 3, 4**  
   
-1.CPE Lyon, 2.INSA Lyon, 3.INRIA Chroma team, 4.CITI Lab., 5.Palo IT 
+**1.**CPE Lyon, **2.**INSA Lyon, **3.**INRIA Chroma team, **4.**CITI Lab., **5.**Palo IT 
 
 
 
