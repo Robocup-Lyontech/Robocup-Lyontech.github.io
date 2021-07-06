@@ -25,7 +25,7 @@ Voici nos résultats pour cette année :
 
 Voici notre robot PALbator "réel" en 2016 (gauche) ainsi que le désormais célèbre Pepper (droite) :  
 
-<img src="/assets/images/simu2021/PALbator_Pepper.jpg" ALIGN="right" width="800" >
+<img src="/assets/images/simu2021/PALbator_Pepper.jpg" ALIGN="center" width="800" >
 
 
 Pour voir nos robots en simulation, en savoir un peu plus sur la robocup et sur nos résultats, regardez cette video de moins de 2mn (slides en anglais, audio en français) :  
