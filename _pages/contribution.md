@@ -25,6 +25,7 @@ These people features detection form also individual contributions:
 
 ## Previous results and works around RoboCup
 **LyonTech** is composed by former members of CPE Lyon team and by former candidates for Robocup organization:
+- **LyonTech**  team : **2nd place at Robocup@home SSPL** OnLine, World **2021**
 - **LyonTech**  team : **3rd place at Robocup@home SSPL** Sydney, AUSTRALIA, **2019**
 - **LyonTech**  team : **5th place at Robocup@home SSPL** Montreal, CANADA, **2018**
 - **LyonTech** team : **5th place at Robocup@home SSPL** Montreal, CANADA, **2018**
@@ -34,9 +35,11 @@ These people features detection form also individual contributions:
 
 - Lyon city and INSA **candidated for the organization of the Robocup, in 2016** (co-led by Olivier Simonin from Chroma/CITI team).
 - Fabrice Jumel (CPE Lyon/CITI) is a **Robocup@home evangelist** for France
+  - He is  OC member of RoboCup@Home since 2017.    
+  - He was OC chair and co-chair in 2018-2020 and  TC of RoboCup@Home in 2017-2018
   - He is member as the organisation commitee for application of Bordeaux for **Robocup 2020** 
-  - He is **TC Robocup@home for 2017-2018**. 
-  - He is  the Organizer of a French @home open (first edition 24, 25th January 2018 in Lyon). 
+  - He was **TC Robocup@home for 2017-2018**. 
+  - He was  the Organizer of a French @home open (first edition 24, 25th January 2018 in Lyon). 
   - He was **OC for Robocup@home SSPL in Nagoya and Montreal** and **OC for Robocup@home LARC in Recife**.
 
 
