@@ -8,10 +8,8 @@ tags:
   - Internships
 ---
 
-# __Internships: Service robotics at home__
-
 We are looking for two interns, in order to complete our robocup team :
-composed of https://robocup-lyontech.github.io/
+composed of <a href="https://robocup-lyontech.github.io/">https://robocup-lyontech.github.io/</a>
 
 ## __Main goal:__
 
@@ -20,7 +18,7 @@ Enhance our robot PALbator (<a href="https://robocup-lyontech.github.io/opl/">OP
 - New objects grasping (Update robot arm mechanics and controller + new grasping manager software)
 
 Implement those features in robocup scenario. Rules available here :
-https://robocupathome.github.io/RuleBook/rulebook/master.pdf
+<a href="https://robocupathome.github.io/RuleBook/rulebook/master.pdf">https://robocupathome.github.io/RuleBook/rulebook/master.pdf</a>
 
 
 ## __Why is it great ?__
