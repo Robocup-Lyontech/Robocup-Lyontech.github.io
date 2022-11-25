@@ -9,7 +9,7 @@ Our main GitHub repository pointing to every other repository as submodule is av
 
 Here are some of the submodules :
 
-- [General Orchestrator](https://github.com/jacques-saraydaryan/robocup_pepper-general_mng)  : we developed a General Orchestrator allowing the robot to coordinate its capacities (navigation, perception, interaction) and make decision on defined scenario.
+- [General Manager](https://github.com/jacques-saraydaryan/robocup_pepper-general_mng)  : we developed a General Orchestrator allowing the robot to coordinate its capacities (navigation, perception, interaction) and make decision on defined scenario.
 
 - [Navigation Manager](https://github.com/jacques-saraydaryan/robocup_pepper-navigation_mng) : this functionality provide a set of navigation strategy depending on the observed context. Regarding to the context (lots of people, complex environment, large free space zone), the robot changes it way of navigation.
 
