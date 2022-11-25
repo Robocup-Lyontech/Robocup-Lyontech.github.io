@@ -14,7 +14,7 @@ Our Open Platform named **Palbator** is made from a PMB-2 PAL mobile base, enhan
 
 Our software architecture is distributed on several hardware platforms as shown below. As we use ROS and independent software modules, we can easily (un)scale our hardware .
 
-<img src="/assets/images/opl/archi_hard_soft.png" width="600" ALIGN="middle" >
+<img src="/assets/images/opl/archi_hard_soft_2023.png" width="600" ALIGN="middle" >
 
 The architecture of LyonTech's software is shown below. It contains modules which have been developed in the different research groups of the consortium, completed by off-the shelf modules which tackle standard tasks, as well as engineering bricks interconnecting these modules.
 
