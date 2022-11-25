@@ -9,7 +9,7 @@ title: "Open Plateform League"
 
 Our Open Platform named **Palbator** is made from a PMB-2 PAL mobile base, enhanced by several hardware and software features. It's body contains a 7 DoF (1P + 6R) custom arm made of 1 prismatic joint (elevator) and 6 revolute joints. It's designed to reach objects on the floor or on a top shelf (~1m80) with a 1.5Kg payload.
 
-<img src="/assets/images/opl/robot_archi_hard_OPL2020_v3.png" width="480" ALIGN="center" >  
+<img src="/assets/images/opl/robot_archi_hard_OPL2023_V1.png" width="480" ALIGN="center" >  
 
 
 Our software architecture is distributed on several hardware platforms as shown below. As we use ROS and independent software modules, we can easily (un)scale our hardware .
