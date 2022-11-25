@@ -81,5 +81,8 @@ floors.](https://hal.inria.fr/hal-01196042v2/document) IEEE Sensors Journal, PP(
 17. F. Jumel, J. Saraydaryan, R. Leber, L. Matignon, E. Lombardi, C. Wolf, and O. Simonin. Context Aware Robot Architecture,
 Application to the RoboCup@Home Challenge. In RoboCup symposium, Montreal, Canada, June 2018.
 18. F. Jumel, J. Saraydaryan, and O. Simonin. Mapping likelihood of encountering humans: application to path planning in crowded environment. In The European Conference on Mobile Robotics (ECMR), Proceedings of ECMR 2017, Paris, France, September 2017.
+19.  F. Jumel.  Advancing research at the robocup@home competition . IEEE Robotics Automation Magazine, 26(2):7–9, 2019
+20.  J. Saraydaryan, R. Leberl, and F. Jumel.  People managementframework using a 2D camera for human-robot social interactions. In23rd AnnualRoboCup International Symposium RCS, Sydney, Australia, July 2019
+21.  O. Simonin, B. Renault B., J. Saraydaryan Modeling a social placement cost to extendnavigation  among  movable  obstacles  (namo)  algorithms.  IEEE/IROS,2020.
 
 
