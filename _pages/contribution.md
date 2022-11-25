@@ -9,7 +9,7 @@ Our main GitHub repository pointing to every other repository as submodule is av
 
 Here are some of the submodules :
 
-- [General Manager](https://github.com/jacques-saraydaryan/robocup_pepper-general_mng)  : we developed a General Orchestrator allowing the robot to coordinate its capacities (navigation, perception, interaction) and make decision on defined scenario.
+- [General Manager](https://github.com/jacques-saraydaryan/robocup_pepper-general_mng)  : we developed a general orchestrator allowing the robot to coordinate its capacities (navigation, perception, interaction) and make decision on defined scenario.
 
 - [Navigation Manager](https://github.com/jacques-saraydaryan/robocup_pepper-navigation_mng) : this functionality provide a set of navigation strategy depending on the observed context. Regarding to the context (lots of people, complex environment, large free space zone), the robot changes it way of navigation.
 
@@ -26,8 +26,8 @@ These people features detection form also individual contributions:
 ## Previous results and works around RoboCup
 **LyonTech** is composed by former members of CPE Lyon team and by former candidates for Robocup organization:
 - **LyonTech**  team : **2nd place at Robocup@home SSPL** OnLine, World **2021**
+- **LyonTech**  team : **6th place at Robocup@home OPL** OnLine, World **2021**
 - **LyonTech**  team : **3rd place at Robocup@home SSPL** Sydney, AUSTRALIA, **2019**
-- **LyonTech**  team : **5th place at Robocup@home SSPL** Montreal, CANADA, **2018**
 - **LyonTech** team : **5th place at Robocup@home SSPL** Montreal, CANADA, **2018**
 - **CPE Robot Forum** team (including Jacques Saraydaryan, Raphael Leber, Fabrice Jumel) : **15th place at Robocup@home OPL** Leipzig, Germany, **2016**
 - **Lyon CPE** team  (including Jacques Saraydaryan, Fabrice Jumel): **3rd place at Robocup@work**, Joao Pessoa, Brazil, **2013**
