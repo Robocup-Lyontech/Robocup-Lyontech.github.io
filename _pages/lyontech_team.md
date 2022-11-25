@@ -15,7 +15,7 @@ Different organizations inside the campus gathered to create the **LyonTech team
 - **INRIA**, Computer science and Mathematics laboratory
 
 ## Teaching involvement
-The 3 teaching entities mentioned in introduction are very active in the robotic field.
+The 2 teaching entities mentioned in introduction are very active in the robotic field.
 
 - **CPE Lyon** is a 130 years old engineering school (chemistry and computer science diplomas) that offers a "service robotics" speciality (fourth and fifth year), based on software development for robotics (the robotic framework ROS), embedded systems, and a bit of mechatronics. The courses are based on a lot of practical work on different platforms (custom ROS plateforms, Youbot, Baxter,
 Naos, Peppers, Turtlebots, UAVs ...). To finish their training, students have to work on a robotic project. Robocup@home is a convenient opportunity for students to work on a challenging global project, so we decided to keep working on this Robocup@home project for the following years.

@@ -3,7 +3,7 @@ permalink: /opl/
 title: "Open Plateform League"
 ---
 
-<!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/am0lZ7B3gYM" frameborder="0" allowfullscreen></iframe> -->
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=AjR0zq83TIY" frameborder="0" allowfullscreen></iframe>
 
 <img src="/assets/images/opl/OPLPlateformev3t.png" ALIGN="right" width="180" >
 
@@ -39,14 +39,16 @@ Our expertise in robotics relates to motion planning in dynamic and uncertain en
 
 
 ## Human-Robot Interaction
+
 Human-Robot Interaction is managed with a classical combination of natural language communication and use of a tablet.
 
- For Natural Language Understanding (NLU), we are using the off-the-shelf solution, free for non-commercial use software Snips. Snips offer a way to construct an offline solution for speech recognition. 
-Snips uses very few resources that it can be embedded on a Raspberry Pi. We use an array of microphones (matrix creator one)  to improve sound localization .
+For Natural Language Understanding (NLU) and Text-To-Speech, we are using the off-the-shelf solution, free for non-commercial use software OpenVoiceOS,
+based on the domotic solution, Mycroft. OpenVoiceOS offer a way to construct an offline solution for speech recognition. It uses very few resources that it can be
+embedded on a Raspberry Pi. We use an array of microphones (matrix creator one) to improve sound localization .
 
-Concerning text-to-speech, we are using the classical open source solution Espeak, another solution Acapella is being explored. 
-
- For tablet interaction, we reused a web application (based on ReactJS) developed for  pepper robot  and successfully used during SSPL robocup@home competition in Sydney. 
+OpenVoiceOS allows the use of online tools, and to switch to offline tools in case of network access problems, ensuring smooth interaction.
+ 
+For tablet interaction, we reused a web application (based on ReactJS) developed for pepper robot and successfully used during SSPL robocup@home competition in Sydney. 
 
 
 ## Integration 
