@@ -3,7 +3,7 @@ permalink: /opl/
 title: "Open Plateform League"
 ---
 
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=AjR0zq83TIY" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AjR0zq83TIY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <img src="/assets/images/opl/OPLPlateformev3t.png" ALIGN="right" width="180" >
 

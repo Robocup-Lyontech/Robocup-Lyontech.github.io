@@ -18,7 +18,7 @@ Here are some of the submodules :
   
 <img src="/assets/images/contribution/people_mng_exp.png" width="700" ALIGN="middle" >
 
-These people features detection form also individual contributions:
+This framework includes the following additional contributions:
   - [Face recognition](https://github.com/jacques-saraydaryan/ros_face_recognition) : a solution was developed to automatically catch face and learn it for future detection.
   - [Color detection](https://github.com/jacques-saraydaryan/ros_color_detection) : we extract main colors of a given picture (e.g t-shir, trousers) based on HSV format and K-mean clustering 
   - [Pose detection](https://github.com/m0rph03nix/ros_openpose_gossip) : based on the OpenPose data, we build a pose extractor gives us the estimate pose (stand, sit, lying down, left or right arm up,...) and distance estimation
