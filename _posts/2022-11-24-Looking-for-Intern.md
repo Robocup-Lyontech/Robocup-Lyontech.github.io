@@ -8,8 +8,7 @@ tags:
   - Internships
 ---
 
-We are looking for two interns, in order to complete our robocup team :
-composed of <a href="https://robocup-lyontech.github.io/">https://robocup-lyontech.github.io/</a>
+We are looking for two interns, in order to complete our robocup team !
 
 ## __Main goal:__
 
